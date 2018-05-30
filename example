@@ -1,0 +1,12 @@
+	       {
+	           int value;
+	           cin>>value;
+	           arr[i].push_back(value);
+	       }
+ 
+	   } 
+ 
+    vector <float> v;
+ 
+    for(int j=0;j<l;j++)
+    {
